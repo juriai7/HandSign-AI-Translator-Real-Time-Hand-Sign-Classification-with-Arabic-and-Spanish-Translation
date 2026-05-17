@@ -1,9 +1,6 @@
 # HandSign AI Translator  
 ### Real-Time Hand Sign Classification with Arabic-Spanish Translation, ASL Tutor Mode, and Hand Distance Feedback
 
-<p align="center">
-  <img src="assets/banner.png" alt="HandSign AI Translator Banner" width="900">
-</p>
 
 <p align="center">
   <b>AI385 Computer Vision Project — University of Prince Mugrin</b><br>
@@ -351,7 +348,7 @@ ALLcombined_ASL_Arabic_Spanish_Distance_Word_TutorMode.ipynb
 | Team Member | Contribution |
 |---|---|
 | Juri Bandar Almarwani | Word Recognition Module |
-| Roaa Abdulelah Alhejaili | Translation Feature |
+| Roaa Abdulelah Alhejaili | Translation Module|
 | Wajd Sultan Burhan | Sign Language Tutor Module |
 | Joudi Khaleel Alharbi | Hand Distance Feature |
 
