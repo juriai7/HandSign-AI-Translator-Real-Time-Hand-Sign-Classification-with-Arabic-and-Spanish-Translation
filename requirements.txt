@@ -1,0 +1,12 @@
+tensorflow
+mediapipe
+opencv-python
+numpy
+pandas
+scikit-learn
+matplotlib
+jupyter
+googletrans==4.0.0rc1
+arabic-reshaper==2.1.4
+python-bidi
+Pillow
