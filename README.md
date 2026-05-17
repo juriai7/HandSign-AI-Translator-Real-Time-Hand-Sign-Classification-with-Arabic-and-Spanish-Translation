@@ -96,11 +96,7 @@ Keras MLP model classifies the sign
 Prediction is displayed and translated
 ```
 
-<p align="center">
-  <img src="assets/pipeline-diagram.png" alt="System Pipeline Diagram" width="850">
-</p>
 
----
 
 ## Word Recognition Module
 
